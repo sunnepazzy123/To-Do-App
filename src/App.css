@@ -52,19 +52,19 @@ body{
 
 @media only screen and (max-width: 320px) and (max-width: 568px){
   .App{
-    width: 300px;
+    width: 260px;
   }
 }
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
  .App{
-    width: 350px;
+    width: 280px;
    }
 }
 
 @media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
 
 .App{
-    width: 400px;
+    width: 300px;
    }
 }
 
